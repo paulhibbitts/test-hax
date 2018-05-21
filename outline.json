@@ -1,0 +1,18 @@
+[
+  {
+    "id": "outline-item-0",
+    "indent": 0,
+    "order": 0,
+    "parent": null,
+    "title": "My Page",
+    "location": "content/My Page.html"
+  },
+  {
+    "id": "outline-item-2",
+    "indent": 0,
+    "order": 1,
+    "parent": null,
+    "title": "",
+    "location": "content/.html"
+  }
+]
